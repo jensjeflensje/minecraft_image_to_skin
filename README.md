@@ -4,6 +4,8 @@ A web application that converts photos of people into Minecraft character skins 
 
 Upload a photo and the app will analyze it, extract physical characteristics, and generate a Minecraft skin that you can preview in 3D and download.
 
+As seen on my YouTube channel: https://www.youtube.com/shorts/dxY5siiUkkc.
+
 ## How it works
 
 1. **Upload** a photo of yourself (drag-and-drop, file picker, or paste)
